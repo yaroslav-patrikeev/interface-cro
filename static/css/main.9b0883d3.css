@@ -1,0 +1,2 @@
+#root{max-width:1140px}.menu{font-size:30px;width:100%}.menu__elements{display:flex;justify-content:space-between;list-style-type:none}.menu__element{border:1px solid #000;cursor:pointer;padding:40px}.submenu{font-size:25px;width:100%}.submenu__elements{-webkit-column-gap:20px;column-gap:20px;display:flex;justify-content:center;list-style-type:none}.submenu__element{border:1px solid #000;cursor:pointer;padding:30px}.content{display:flex;justify-content:center;width:100%}.content__video{font-size:70px}
+/*# sourceMappingURL=main.9b0883d3.css.map*/
