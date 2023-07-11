@@ -1,0 +1,16 @@
+.menu {
+  width: 100%;
+  font-size: 30px;
+}
+
+.menu__elements {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+}
+
+.menu__element {
+  border: 1px solid black;
+  padding: 40px;
+  cursor: pointer;
+}

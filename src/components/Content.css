@@ -1,0 +1,9 @@
+.content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.content__video {
+  font-size: 70px;
+}

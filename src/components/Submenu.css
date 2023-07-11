@@ -1,0 +1,17 @@
+.submenu {
+  width: 100%;
+  font-size: 25px;
+}
+
+.submenu__elements {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  column-gap: 20px;
+}
+
+.submenu__element {
+  border: 1px solid black;
+  padding: 30px;
+  cursor: pointer;
+}
